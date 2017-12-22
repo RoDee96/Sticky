@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sticky</string>
+    <string-array name="list_">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
